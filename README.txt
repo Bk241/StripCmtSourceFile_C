@@ -1,1 +1,3 @@
-## This is my first commit
+Programming : C
+
+Stripping comments from a C source files.
